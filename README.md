@@ -1,59 +1,76 @@
-## Hi! I'm Antonio Dias👋
+<h1 align="center">Hi 👋 I'm Antonio Dias</h1>
 
-- 🔭 I’m currently working on Fábrica de Software
-- 💬 Ask me about REST APIs, Python, Flask and Django
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Software development is my job and my hobby
+<p align="center">
+  <b>Fullstack Developer</b> · Python/Django · Java/Spring · React — Homelab & self-hosting enthusiast
+</p>
 
-## 📬 Contact me
+<p align="center">
+  <a href="https://diaslabs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Diaslabs-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/antonio-dias-52ba56298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:antoniodias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/antonioisaacdias"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniodias.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-dias-52ba56298)
+---
 
+### About me
 
+- 💼 **Fullstack Developer Jr at Media4All**, working on a low-code document-automation platform
+- 🔁 Career switcher — 10+ years in business & administration before turning to code at 30 (BSc Administration @ UFPB · Systems for Internet @ UNIPÊ)
+- 🧩 Backend-first: shipped Python/Django systems for public institutions, then React + Spring apps for **Vivo**
+- 🏠 Founder of **[Diaslabs](https://diaslabs.vercel.app)** — I run a multi-node homelab (Proxmox, Docker, self-hosted services) to keep learning
+- 🌎 Did a dev exchange in Vancouver 🇨🇦 — comfortable working in English
+- 💬 Ask me about **REST APIs, Django, Flask & Spring**
 
-<div>
-  <h1>Front-end</h1>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" align="center" height="40"/>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-</div>
+---
 
-<div>
-  <h1>Back-end</h1>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40"/>     
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>      
-</div>
+### 🚀 Featured Projects
 
-<div>
-  <h1>Dev Tools</h1>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40"/>      
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40"/>    
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" height="40"/>
-</div>
+| Project | Stack | What it is |
+|---|---|---|
+| **[tormod](https://github.com/antonioisaacdias/tormod)** | React PWA · Node/Hono | My main project — a self-hosted remote interface to drive an AI coding agent (chat + sessions) from anywhere |
+| **[homelab-containers](https://github.com/antonioisaacdias/homelab-containers)** | Docker · Compose | Infrastructure-as-code controlling every service running on my personal homelab |
+| **[task-trek-react-drf](https://github.com/antonioisaacdias/task-trek-react-drf)** | Django REST · React | Full-stack task manager — DRF API on the backend, React SPA on the front |
+| **[api-daily-diet](https://github.com/antonioisaacdias/api-daily-diet)** | Python · Flask | REST API for diet tracking with user auth and session management |
 
-<div>
-  <h1>Learning</h1>
+---
 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="40"/>
+### 🛠️ Tech Stack
 
-</div>
+**Backend**
+
+<p>
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
+  <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>&nbsp;&nbsp;
+  <img alt="Flask" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>&nbsp;&nbsp;
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
+  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp;&nbsp;
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
+  <img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+</p>
+
+**Infra & DevOps**
+
+<p>
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;
+  <img alt="Proxmox" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg"/>&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antonioisaacdias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioisaacdias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+</p>
