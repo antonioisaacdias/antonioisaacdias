@@ -32,6 +32,7 @@
 | **[tormod](https://github.com/antonioisaacdias/tormod)** | React PWA · Node/Hono | Self-hosted remote interface to drive an AI coding agent (chat + sessions) from anywhere |
 | **[kvasir](https://github.com/antonioisaacdias/kvasir)** | React · Node/Hono | Searches public-domain book sources and drops downloads straight into my self-hosted Calibre library |
 | **[llm-wiki](https://github.com/antonioisaacdias/llm-wiki)** | Go · SQLite FTS5 · MCP | Shared factual knowledge base my homelab's AI agents read and write to stay in sync |
+| **[code-gates](https://github.com/antonioisaacdias/code-gates)** | TypeScript · SonarQube · Semgrep | Quality-gates toolkit I run in every CI pipeline — types, lint, tests, secrets, SAST, dependency vulns, one command |
 
 ---
 
@@ -81,4 +82,5 @@
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=antonioisaacdias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=antonioisaacdias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
 </p>
+
 
