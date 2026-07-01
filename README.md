@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Antonio Dias</h1>
 
 <p align="center">
-  <b>Fullstack Developer</b> · Python/Django · Java/Spring · React — Homelab & self-hosting enthusiast
+  <b>Fullstack Developer</b> · Java/Spring · Angular · Node/Hono — Homelab & AI-driven engineering enthusiast
 </p>
 
 <p align="center">
@@ -15,12 +15,13 @@
 
 ### About me
 
-- 💼 **Fullstack Developer Jr at Media4All**, working on a low-code document-automation platform
+- 💼 **Fullstack Developer Jr at Media4All**, building a low-code document-automation platform with **Java/Spring** and **Angular**
 - 🔁 Career switcher — 10+ years in business & administration before turning to code at 30 (BSc Administration @ UFPB · Systems for Internet @ UNIPÊ)
-- 🧩 Backend-first: shipped Python/Django systems for public institutions, then React + Spring apps for **Vivo**
-- 🏠 Founder of **[Diaslabs](https://diaslabs.vercel.app)** — I run a multi-node homelab (Proxmox, Docker, self-hosted services) to keep learning
+- 🧱 Shipped production systems across the stack: Django for public institutions, then React + Spring for **Vivo**, now Java/Spring + Angular day-to-day
+- 🏠 Founder of **[Diaslabs](https://diaslabs.vercel.app)** — a multi-node homelab where I design, build and ship real software (see Featured Projects below), not just run containers
+- 🤖 Deep into AI-driven engineering — I use Claude Code as a daily dev partner, from architecture and TDD to CI/CD quality gates
 - 🌎 Did a dev exchange in Vancouver 🇨🇦 — comfortable working in English
-- 💬 Ask me about **REST APIs, Django, Flask & Spring**
+- 💬 Ask me about **Java/Spring, Angular, Node/Hono, or homelab/self-hosting**
 
 ---
 
@@ -80,3 +81,4 @@
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=antonioisaacdias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=antonioisaacdias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
 </p>
+
