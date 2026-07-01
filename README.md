@@ -28,10 +28,9 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| **[tormod](https://github.com/antonioisaacdias/tormod)** | React PWA · Node/Hono | My main project — a self-hosted remote interface to drive an AI coding agent (chat + sessions) from anywhere |
-| **[homelab-containers](https://github.com/antonioisaacdias/homelab-containers)** | Docker · Compose | Infrastructure-as-code controlling every service running on my personal homelab |
-| **[task-trek-react-drf](https://github.com/antonioisaacdias/task-trek-react-drf)** | Django REST · React | Full-stack task manager — DRF API on the backend, React SPA on the front |
-| **[api-daily-diet](https://github.com/antonioisaacdias/api-daily-diet)** | Python · Flask | REST API for diet tracking with user auth and session management |
+| **[tormod](https://github.com/antonioisaacdias/tormod)** | React PWA · Node/Hono | Self-hosted remote interface to drive an AI coding agent (chat + sessions) from anywhere |
+| **[kvasir](https://github.com/antonioisaacdias/kvasir)** | React · Node/Hono | Searches public-domain book sources and drops downloads straight into my self-hosted Calibre library |
+| **[llm-wiki](https://github.com/antonioisaacdias/llm-wiki)** | Go · SQLite FTS5 · MCP | Shared factual knowledge base my homelab's AI agents read and write to stay in sync |
 
 ---
 
@@ -45,7 +44,9 @@
   <img alt="Flask" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>&nbsp;&nbsp;
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
   <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp;&nbsp;
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
+  <img alt="Hono" height="40" src="https://cdn.simpleicons.org/hono/E36002"/>&nbsp;&nbsp;
+  <img alt="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 </p>
 
 **Frontend**
@@ -55,6 +56,13 @@
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
   <img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+</p>
+
+**Testing**
+
+<p>
+  <img alt="Vitest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg"/>&nbsp;&nbsp;
+  <img alt="Pytest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"/>
 </p>
 
 **Infra & DevOps**
