@@ -40,11 +40,9 @@
 
 <p>
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
-  <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>&nbsp;&nbsp;
   <img alt="Flask" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>&nbsp;&nbsp;
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
   <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp;&nbsp;
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
   <img alt="Hono" height="40" src="https://cdn.simpleicons.org/hono/E36002"/>&nbsp;&nbsp;
   <img alt="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 </p>
@@ -79,6 +77,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antonioisaacdias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioisaacdias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=antonioisaacdias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=antonioisaacdias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
 </p>
