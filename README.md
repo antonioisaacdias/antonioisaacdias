@@ -33,6 +33,7 @@
 | **[kvasir](https://github.com/antonioisaacdias/kvasir)** | React · Node/Hono | Searches public-domain book sources and drops downloads straight into my self-hosted Calibre library |
 | **[llm-wiki](https://github.com/antonioisaacdias/llm-wiki)** | Go · SQLite FTS5 · MCP | Shared factual knowledge base my homelab's AI agents read and write to stay in sync |
 | **[code-gates](https://github.com/antonioisaacdias/code-gates)** | TypeScript · SonarQube · Semgrep | Quality-gates toolkit I run in every CI pipeline — types, lint, tests, secrets, SAST, dependency vulns, one command |
+| **[botafogo-scraper](https://github.com/antonioisaacdias/botafogo-scraper)** | Node · Cheerio · Playwright | Scrapes CBF fixtures, results and standings into a JSON widget on my homelab dashboard |
 
 ---
 
